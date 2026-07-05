@@ -28,7 +28,7 @@ line follwing bot using esp32 and ir sensor module.
  it is purely circuit based bot no any microcontroller used. 
  🔗 https://github.com/Mohit4001/Light-follower-robot
 
- ### 6. Object avoidance bot 
+ ### 7. Object avoidance bot 
  using ultrasonic sensors and esp32 
 🔗https://github.com/Mohit4001/Object-avoidance-robot
 
